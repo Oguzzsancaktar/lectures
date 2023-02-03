@@ -1,17 +1,18 @@
 <!-- Basic Linux Script Commands. -->
 
-1 - cd => (command) => we can walk around the directories
-2 - ls => (list) => shows files and folders from directory
-3 - rm => (remove) => removes files and folders
-4 - pwd => (print working directory) => where we are exactly
-5 - touch => creates files (txt , md c
-6 - mkdir => (make directory) => creates folders
-7 - clear => clears the console
+<p>1 - cd => (command) => we can walk around the directories.</p>
+<p>2 - ls => (list) => shows files and folders from directory.</p>
+<p>3 - rm => (remove) => removes files and folders.</p>
+<p>4 - pwd => (print working directory) => where we are exactly.</p>
+<p>5 - touch => creates files (txt , md).</p>
+<p>6 - mkdir => (make directory) => creates folders.</p>
+<p>7 - clear => clears the console.</p>
 
 <!-- Keywords. -->
 
-1 - GUI => Graphic User Interface
-2 - UI => User Interface
-3 - . (dot) => means here
-4 - IDE => Integrated Development Environment
-5 - HTML => Hypertext markup langue
+<p>1 - GUI => Graphic User Interface.</p>
+<p>2 - UI => User Interface.</p>
+<p>3 - . (dot) => means here.</p>
+<p>4 - IDE => Integrated Development Environment.</p>
+<p>5 - HTML => Hypertext markup langue.</p>
+<p>6 - Our code IDE is visual studio code.</p>
